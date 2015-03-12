@@ -2,7 +2,7 @@
 #-------------------------------------------------------------------------------
 # Name:mkj_extend_curve
 # Version: 1.0
-# Description: This script is designed to extend a curves start and end points, and keep those vertices selected
+# Description: This script is designed to extend a curve's start and end points, and keep those vertices selected
 #
 # Author:      Marcus Kjeldsen
 #

@@ -1,4 +1,16 @@
 #python
+#-------------------------------------------------------------------------------
+# Name:mkj_getAverageVertexWeight.py
+# Version: 1.0
+# Description: Get average weight of selected vertices from current weightmap, 
+#              and activate the weight tool with that value
+#
+# Author:      William Vaughan, pushingpoints.com
+# Author:      Marcus Kjeldsen
+#
+# Created:     2015/03/12
+#-------------------------------------------------------------------------------
+
 import lx
 
 vmaps_count = lx.eval('query layerservice vmap.N ?')
